@@ -20,3 +20,9 @@ li {
     padding: 5px;
 
 }
+li a {
+    display: block;
+    text-decoration-line: none;
+    color: grey;
+    
+}
