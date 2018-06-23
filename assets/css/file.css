@@ -5,6 +5,14 @@
     text-align: center;
     width: 25%;
     height: 30%;
+    padding: 5px;
+    align-content: center;
+}
+.topnav{
+    float: right;
+}
+.top-bar {
+    background-color: white;
 }
 
 ul {
@@ -25,4 +33,13 @@ li a {
     text-decoration-line: none;
     color: grey;
     
+}
+body {
+    background-color: #777777;
+}
+.main-body {
+    background-color: white;
+}
+#about-me {
+    color: #4aaaa5;
 }
